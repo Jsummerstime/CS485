@@ -1,7 +1,7 @@
 # CS485
 Applied Neural Networks
 
-This repository contains all of code I have created for problem sets in CS485. 
+This repository contains all of the code I have created for problem sets in CS485. 
 
 Upon successfully completing the course, Cadets will be able to:
 
